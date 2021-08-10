@@ -13,4 +13,4 @@ else
     echo "Used disk space limit=${fsLimit}% is not reached, current usagee is ${percentage_used_int}%"
 fi 
 
-# 0 0 0/4 ? * * * ~/cleaner.sh > ~/cleaner.log 2>&1
+# 0 */4 * * * ~/cleaner.sh > ~/cleaner.log 2>&1
