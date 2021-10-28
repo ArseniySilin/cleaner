@@ -1,4 +1,6 @@
 # cleaner
 
-### mountDiskSpacePercentageLimitClean.sh
-Clean disk space if some percentage limit of usage is reached 
++ mountDiskSpacePercentageLimitClean.sh - 
+  clean disk space if some percentage limit of usage is reached 
+
+
