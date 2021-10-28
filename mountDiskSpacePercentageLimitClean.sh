@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Clean disk space if some percentage limit of usage is reached
+
 fsLimit=80 # available fs usage percentage limit
 mountName="/foo/bar" # directory name for clearing
 
